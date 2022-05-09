@@ -50,4 +50,19 @@ Model.compile(optimizer, loss_fn, ...)
 model.fit(data, ...)
 ```
 
-More detailed examples, corresponding to the experiment section in the paper, can be found in the notebooks directory.
+More detailed examples, corresponding to the experiment section in the paper, can be found in the notebooks.
+
+The following notebooks are available:
+* Artificial2D contains a two dimensional example for the artificial data.
+* ArtificialMultiDim contains higher dimensional modeling and analysis for the artificial data.
+* Indian Covid Data - Baseline contains time series analysis and modeling for the per state individual models.
+* Indian Covid Data contains time series analysis and modeling corresponding to the general models.
+* DataAnalysis contains the code used for scraping of the image tags for the YFCCM100-GEO100 dataset.
+* GeoImagesModel contains models and analysis used for the the YFCCM100-GEO100 dataset.
+
+
+# Data
+
+Data corresponding to the indian covid time series: *Coming soon* <br>
+Data corresponding to the YFCCM100-GEO100 and tags data: *Coming soon* <br>
+
