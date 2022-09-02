@@ -1,6 +1,6 @@
 # Dynamic-kernels
 This repository contains the code for the paper: <br>
-"Context-aware machine learning with dynamically assembled weight matrices."
+"Context-aware machine learning with dynamically assembled weight matrices." <br>
 preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182104
 
 # Code
