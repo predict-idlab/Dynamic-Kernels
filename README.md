@@ -1,7 +1,7 @@
 # Dynamic-kernels
 This repository contains the code for the paper: <br>
 "Context-aware machine learning with dynamically assembled weight matrices."
-*link coming soon*
+preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182104
 
 # Code
 All the code is written in the newest stable tensorflow version v2.5.0. <br>
